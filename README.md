@@ -49,7 +49,7 @@ Tech startup focused on innovative solutions for real-world challenges <br>
 
 ## 💻 Tech Stack:
 
-*(Same as you already had — kept below for quick copy-paste along with your existing badges)*
+
 ✔ Verilog, VHDL (Added VLSI focus)
 ✔ Python, C, Java, JavaScript
 ✔ React, Node.js, Flask, Django
@@ -89,8 +89,4 @@ Tech startup focused on innovative solutions for real-world challenges <br>
 
 [![](https://visitcount.itsvg.in/api?id=dhinesh250517\&icon=9\&color=11)](https://visitcount.itsvg.in)
 
-🛠️ **Built using GPRM**
 
----
-
-Let me know if you'd like a version with fewer badges or more focus on hardware/VLSI!
